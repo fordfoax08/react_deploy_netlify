@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "qui est esse",
+      "datetime": "January 31, 2022 12:02:00 PM",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "datetime": "January 31, 2022 12:02:00 PM",
+      "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+      "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "datetime": "January 31, 2022 12:02:00 PM",
+      "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
+      "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "datetime": "January 31, 2022 12:02:00 PM",
+      "title": "ullam ut quidem id aut vel consequuntur",
+      "body": "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae"
+    },
+    {
+      "userId": 7,
+      "id": 7,
+      "datetime": "February 03,2022 8:28:27 PM",
+      "title": "7th posts",
+      "body": "kunwari hindi edasdfited",
+      "editdatetime": "February 03,2022 8:35:40 PM"
+    },
+    {
+      "userId": 8,
+      "id": 8,
+      "datetime": "February 03,2022 8:38:21 PM",
+      "title": "8th posts",
+      "body": "THis is my 8th post sample lang naman ito try if it accept long sentences, or to test wether this app can handle large amount of text |<- this is edited test test",
+      "editdatetime": "February 03,2022 8:39:24 PM"
+    },
+    {
+      "userId": 9,
+      "id": 9,
+      "datetime": "February 09,2022 6:52:08 PM",
+      "title": "9th post",
+      "body": "This is working tahsdh?",
+      "editdatetime": "February 12,2022 9:33:20 PM"
+    },
+    {
+      "userId": 10,
+      "id": 10,
+      "datetime": "February 12,2022 9:33:35 PM",
+      "title": "10th post",
+      "body": "This is 19 post\n"
+    },
+    {
+      "userId": 11,
+      "id": 11,
+      "datetime": "February 13,2022 10:40:30 AM",
+      "title": "11th post",
+      "body": "This is my 11th post this is edited",
+      "editdatetime": "February 13,2022 10:40:42 AM"
+    }
+  ]
+}
