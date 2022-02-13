@@ -1,5 +1,5 @@
 import { createContext, useState, useEffect } from 'react';
-import { Routes, Route, useNavigate, resolvePath } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import api from '../../api/post';
 import { format } from 'date-fns';
 import useAxiosFetch from '../../components/hooks/useAxiosFetch';
@@ -38,7 +38,7 @@ export const DataProvider = ({children}) => {
     //HandleUpdate
     const handleUpdate = async (id) => {
         if(!window.confirm("are you sure?")) return;
-        const post = posts.find(item => item.id == id);
+        //const post = posts.find(item => item.id == id);
         //const newPost = {...post, datetime: datenow, title: editTitle, body: editBody };
         
         try{
